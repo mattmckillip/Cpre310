@@ -1,12 +1,10 @@
 # Cpre310
- Discrete Mathematics
-
-# Course Overview
+## Course Overview
 Theoretical Foundations of Computer Engineering. Propositional logic and methods of proof; set theory and its
 applications; mathematical induction and recurrence relations; functions and relations; and counting;
 trees and graphs; applications in computer engineering.
 
-# Developing Important Thinking Skills
+## Developing Important Thinking Skills
 In addition to covering the topics as listed in the catalog description, the course will emphasize the
 development of following skills:
 * Specifying and analyzing a system with clarity without getting lost in minor or irrelevant
@@ -22,6 +20,6 @@ We will refer to it as “discovering, refining, and applying patterns.” This 
 effective problem solving and advancing the boundaries of our knowledge. Mathematics provides
 many opportunities to experience this process.
 
-# Project: Mathematical Discovery through Experimentation
+## Project: Mathematical Discovery through Experimentation
 You will be asked to write an exploratory program and analyze the results. This project will
 demonstrate how mathematics is applied in practice.
