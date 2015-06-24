@@ -11,11 +11,13 @@ In addition to covering the topics as listed in the catalog description, the cou
 development of following skills:
 * Specifying and analyzing a system with clarity without getting lost in minor or irrelevant
 details.
+
 We will refer to this skill as “separating the signal from noise.” It is an important skill that lies at the
 heart of the critical analysis necessary to solve non-trivial problems. We will present many examples
 where we will formulate problems in a mathematical language to filter out noisy details and capture
 the essence of the problem.
 * Experiencing the process of creative thinking and innovation.
+
 We will refer to it as “discovering, refining, and applying patterns.” This skill is also very important to
 effective problem solving and advancing the boundaries of our knowledge. Mathematics provides
 many opportunities to experience this process.
